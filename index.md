@@ -3,8 +3,11 @@
 My name is Luke Fields. I am an Undergraduate Statistics and Data Science student at the University of California Santa Barbara (UCSB). I have a passion for the world of numbers and data, but also a fantastic enthusiasm for other things that life has to offer. Not only does this website serve as a platform for others to view numerous projects of mine, but it also is my medium to talk about the world of sports, nature, food, and any other facets of life I wish to share my thoughts on. I hope you enjoy anything you come across, and feel free to reach out to me!
 
 Professional Email: lukefieldslf@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/luke-fields-64525b158
+
 Personal Email: bengaluke@gmail.com
+
 Instagram: luke__fields
 
 ### Markdown
