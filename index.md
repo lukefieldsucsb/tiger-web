@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hello and Welcome to My Website!
+
+My name is Luke Fields. I am an Undergraduate Statistics and Data Science student
 
 You can use the [editor on GitHub](https://github.com/lukefieldsucsb/tiger-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
